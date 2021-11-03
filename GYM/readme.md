@@ -3,9 +3,9 @@
 
 Name of project : Fitness Geek 
 
-Link of website : https://github.com/batoolFatimaShaikh/FitnessGeek
+Link of website : https://fitnessgeeks.netlify.app/
 
-code link :
+code link :https://github.com/batoolFatimaShaikh/FitnessGeek
 
 Description : 
               
