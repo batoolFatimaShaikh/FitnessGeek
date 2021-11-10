@@ -1,3 +1,9 @@
+![Capture1](https://user-images.githubusercontent.com/87482863/141068131-ea804ef4-25ac-4389-bbe6-1dcde3336462.PNG)
+![Capture2](https://user-images.githubusercontent.com/87482863/141068164-f109e68a-6952-4bd2-a988-6944d6a8b76f.PNG)
+![Capture3](https://user-images.githubusercontent.com/87482863/141068189-dd13fa3e-680b-46a1-9454-78224a54b01c.PNG)
+![Capture4](https://user-images.githubusercontent.com/87482863/141068215-e5556e4d-ef16-4b9e-8a43-b025fe65a0ea.PNG)
+![Capture5](https://user-images.githubusercontent.com/87482863/141068217-3faaec2e-049f-46c1-b75f-a481d44d5cfe.PNG)
+![Capture6](https://user-images.githubusercontent.com/87482863/141068232-62dafa09-6e11-4fa4-8f06-ebcc56fc09a3.PNG)
 # FitnessGeek
 Gym website
 
