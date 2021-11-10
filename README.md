@@ -26,7 +26,7 @@ Technologies Used :
 
 HTML, JS, CSS.
   
-Features :These website contain Navbar which change background color when we scroll down and its have custom scroll bar implements both by us JavaScript
+Features :These website contain Navbar which change background color when we scroll down and its have custom scroll bar implements both by using JavaScript
 
 Its contains tabs like Home ,Services ,Coaches ,Review ,Contact.
            
